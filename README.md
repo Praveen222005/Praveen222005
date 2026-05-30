@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+beautiful%2C+user-centric+interfaces)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+beautiful%2C+user-centric+interfaces)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=praveenkumark&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/praveenkumark)
-[![Gmail](https://img.shields.io/badge/praveenkolanji2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenkolanji2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/praveenkolanji2005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenkolanji2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenkumark)
 
 </div>
@@ -14,29 +14,29 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```javascript
+```js
 const praveen = {
-  name: "Praveen Kumar K",
-  location: "Neyveli, Tamil Nadu, India 🇮🇳",
-  degree: "B.Tech IT @ Karpagam Institute of Technology (2023–2027)",
+  name    : "Praveen Kumar K",
+  location: "Neyveli, Tamil Nadu 🇮🇳",
+  degree  : "B.Tech IT (2023–2027)",
+  college : "Karpagam Institute of Technology",
 
   stack: [
     "Python", "Java", "JavaScript",
     "React.js", "Tailwind CSS",
-    "AWS", "MySQL", "Figma"
+    "AWS", "MySQL", "Figma",
   ],
 
-  currentlyLearning: [
-    "AWS Serverless Architecture",
-    "Advanced React Patterns",
-    "MongoDB & NoSQL Databases"
+  learning: [
+    "AWS Serverless",
+    "Advanced React",
+    "MongoDB & NoSQL",
   ],
 
-  funFact: "I design UIs before I write a single line of code 🎨",
-
-  motto: () => "Build. Design. Iterate. Ship. 🚀"
+  funFact : "I design the UI before writing code 🎨",
+  motto   : () => "Build. Design. Iterate. Ship. 🚀",
 };
 ```
 
@@ -81,6 +81,8 @@ const praveen = {
 
 ## 📊 GitHub Stats
 
+> ⚡ Stats cards load live from GitHub — they'll populate once this README is on your profile repo!
+
 <div align="center">
 
 <a href="https://github.com/praveenkumark">
@@ -124,14 +126,14 @@ const praveen = {
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
 <div align="center">
 
 | 🚀 Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**Portfolio Website**](https://github.com/praveenkumark) | HTML, CSS, JavaScript, React.js, Tailwind CSS, Figma | Responsive personal portfolio with modern UI/UX, smooth navigation, and cross-device optimization |
-| [**AI Construction Tracking System**](https://github.com/praveenkumark) | Python, Java, React.js, MySQL, AWS, HTML/CSS | AI-powered construction progress monitor using image data & ML for real-time delay detection and data-driven decision making |
+| [**Portfolio Website**](https://github.com/praveenkumark) | HTML · CSS · JS · React.js · Tailwind · Figma | Responsive personal portfolio — modern UI/UX, smooth nav, cross-device optimized |
+| [**AI Construction Tracker**](https://github.com/praveenkumark) | Python · Java · React.js · MySQL · AWS · HTML/CSS | AI-powered progress monitor using image data & ML — real-time delay detection & insights |
 
 </div>
 
@@ -147,11 +149,11 @@ const praveen = {
 | 🐍 | **Python Programming** | YBI Foundation |
 | 🧪 | **Software Testing** | NPTEL (2025) |
 | ⚡ | **Mastering AWS Serverless** | Udemy (2025) |
-| 🛠️ | **Hands-On Development in AWS** | LinkedIn Learning (2025) |
+| 🛠️ | **Hands-On AWS Development** | LinkedIn Learning (2025) |
 | 🗄️ | **SQL (Basic)** | HackerRank Certified |
 | 🍃 | **MongoDB (Basic)** | LinkedIn Certification |
 | ⚛️ | **React** | LinkedIn Certification |
-| 🎨 | **User Interface Prototyping** | Certified |
+| 🎨 | **UI Prototyping** | Certified |
 | 🌐 | **User Experience** | Certified |
 
 </div>
@@ -175,10 +177,10 @@ const praveen = {
 ## 🌱 Currently Learning
 
 ```
-🧱 AWS Serverless  → Lambda, API Gateway, DynamoDB, CloudFormation
-⚛️  React Advanced  → Context API, Custom Hooks, Performance Optimization
-🍃 MongoDB         → Schema Design, Aggregation Pipelines, Atlas
-🎨 UI/UX Design    → Motion Design, Accessibility, Design Systems
+🧱 AWS Serverless  →  Lambda · API Gateway · DynamoDB · CloudFormation
+⚛️  React Advanced  →  Context API · Custom Hooks · Performance Optimization
+🍃 MongoDB         →  Schema Design · Aggregation Pipelines · Atlas
+🎨 UI/UX Design    →  Motion Design · Accessibility · Design Systems
 ```
 
 ---
