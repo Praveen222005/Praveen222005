@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+beautiful%2C+user-centric+interfaces)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+beautiful%2C+user-centric+interfaces)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=praveenkumark&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/praveenkumark)
+[![Profile Views](https://komarev.com/ghpvc/?username=Praveen222005&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Praveen222005)
 [![Gmail](https://img.shields.io/badge/praveenkolanji2005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenkolanji2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenkumark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Praveen222005)
 
 </div>
 
@@ -35,8 +35,8 @@ const praveen = {
     "MongoDB & NoSQL",
   ],
 
-  funFact : "I design the UI before writing code 🎨",
-  motto   : () => "Build. Design. Iterate. Ship. 🚀",
+  "I design the UI before writing code 🎨",
+  "Build. Design. Iterate. Ship. 🚀",
 };
 ```
 
@@ -85,11 +85,11 @@ const praveen = {
 
 <div align="center">
 
-<a href="https://github.com/praveenkumark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenkumark&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Praveen222005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen222005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/praveenkumark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumark&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Praveen222005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen222005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -100,7 +100,7 @@ const praveen = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=praveenkumark&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=praveenkumark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Praveen222005&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=Praveen222005)
 
 </div>
 
@@ -110,7 +110,7 @@ const praveen = {
 
 <div align="center">
 
-[![Praveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenkumark&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/praveenkumark)
+[![Praveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveen222005&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Praveen222005)
 
 </div>
 
@@ -120,7 +120,7 @@ const praveen = {
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=praveenkumark&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/praveenkumark)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Praveen222005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Praveen222005)
 
 </div>
 
@@ -132,8 +132,8 @@ const praveen = {
 
 | 🚀 Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**Portfolio Website**](https://github.com/praveenkumark) | HTML · CSS · JS · React.js · Tailwind · Figma | Responsive personal portfolio — modern UI/UX, smooth nav, cross-device optimized |
-| [**AI Construction Tracker**](https://github.com/praveenkumark) | Python · Java · React.js · MySQL · AWS · HTML/CSS | AI-powered progress monitor using image data & ML — real-time delay detection & insights |
+| [**Portfolio Website**](https://github.com/Praveen222005) | HTML · CSS · JS · React.js · Tailwind · Figma | Responsive personal portfolio — modern UI/UX, smooth nav, cross-device optimized |
+| [**AI Construction Tracker**](https://github.com/Praveen222005) | Python · Java · React.js · MySQL · AWS · HTML/CSS | AI-powered progress monitor using image data & ML — real-time delay detection & insights |
 
 </div>
 
@@ -189,9 +189,9 @@ const praveen = {
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenkumark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Praveen222005)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenkolanji2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveenkumark)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveen222005)
 
 *"Build. Design. Iterate. Ship. 🚀"*
 
