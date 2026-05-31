@@ -135,6 +135,11 @@ const praveen = {
 | [**Portfolio Website**](https://github.com/Praveen222005) | HTML · CSS · JS · React.js · Tailwind · Figma | Responsive personal portfolio — modern UI/UX, smooth nav, cross-device optimized |
 | [**AI Construction Tracker**](https://github.com/Praveen222005) | Python · Java · React.js · MySQL · AWS · HTML/CSS | AI-powered progress monitor using image data & ML — real-time delay detection & insights |
 
+| 
+Blogzo
+ | Python · Flask · SQLite · HTML/CSS · Pytest | Responsive CRUD blog app with post creation, editing, deletion, search, validation, and automated testing |
+
+
 </div>
 
 ---
