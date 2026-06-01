@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+beautiful%2C+user-centric+interfaces)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+beautiful%2C+user-centric+interfaces)
+[![Typing SVG](https://readme-typing-svg.demolab.com? font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+beautiful%2C+user-centric+interfaces)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+beautiful%2C+user-centric+interfaces)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Praveen222005&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Praveen222005)
 [![Gmail](https://img.shields.io/badge/praveenkolanji2005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenkolanji2005@gmail.com)
